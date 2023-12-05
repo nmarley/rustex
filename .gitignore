@@ -1,0 +1,2 @@
+# ignore Cargo / Rust generated artifacts
+/target
