@@ -2,5 +2,6 @@
 
 resolver = "2"
 members = [
+    "num_cores_ex",
     "rayon_ex",
 ]
